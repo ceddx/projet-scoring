@@ -24,5 +24,5 @@ You have to execute command ``python -m main`` and a graphical interface will ap
 
 ## Author
 * Williams DJAFRI pseudo [@WilliamsDjafri](https://github.com/WilliamsDjafri)
-* Cédric GRANDVAUX pseudo [@ceddx](https://gitlab.com/ceddx)
+* Cédric GRANDVAUX pseudo [@ceddx](https://github.com/ceddx)
 * Jason TORRES pseudo [@jasonTor](https://github.com/jasonTor)
