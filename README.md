@@ -11,7 +11,7 @@ You need an internet connection and you have to fill in some steps before launch
 ### Prerequisite 
 
 You have to download these packages in these versions
-- Numpy==?.?.?
+- Numpy==2.1.2
 
 
 ## Start
